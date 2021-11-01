@@ -1,3 +1,3 @@
 <?php
- echo ("O Brasil tá lasacadop");
+ echo ("O Brasil tá lasacado");
 ?>
